@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing internship 
 - 💞️ I’m looking to collaborate on new project 
 - 📫 How to reach me ...+91 9515998131
-- 😄 Pronouns: ...
+- 😄 will create charts graphs and thew dashboard accordingly 
 - ⚡ Fun fact: ...
 
 <!---
